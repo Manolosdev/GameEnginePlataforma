@@ -15,4 +15,4 @@ Estudo particular realizado durante tempo vago para o aperfeiçoamento do paradi
 * Sistema de alteração de fase
 
 ### Considerações
-Projeto apenas para estudo e entendimento do seguimento de desenvolvimento de jogos e curiosidade.
+Projeto apenas para estudo e entendimento do seguimento de desenvolvimento de jogos.
