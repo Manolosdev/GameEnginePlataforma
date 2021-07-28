@@ -1,4 +1,4 @@
-# GameEnginePlataforma [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# Motor de Jogo - Plataforma [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 Estudo particular realizado durante tempo vago para o aperfeiçoamento do paradigma de programação de Orientação a Objeto, durante o percurso foi aprendido de forma funcional todos os conceitos envolvendo a programação OO.
 * Abstração
 * Encapsulamento
